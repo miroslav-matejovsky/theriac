@@ -14,7 +14,9 @@
     "markdown": true
   },
   "git.autofetch": false,
-  "git.branchProtection": ["main"],
+  "git.branchProtection": [
+    "main"
+  ],
   "workbench.editor.showTabs": "none",
   "workbench.colorTheme": "Flexoki Dark",
   "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
@@ -28,4 +30,8 @@
   "powershell.startAutomatically": true,
   "powershell.integratedConsole.showOnStartup": false,
   "powershell.enableProfileLoading": true,
+  "cSpell.words": [
+    "Theriac",
+    "tmiheriac"
+  ],
 }
