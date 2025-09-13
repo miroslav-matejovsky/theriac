@@ -1,0 +1,4 @@
+# Normalize text files to LF line endings
+*.exs     text eol=lf
+*.ex      text eol=lf
+*.erl     text eol=lf
